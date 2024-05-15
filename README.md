@@ -4,7 +4,7 @@
 
 My name is Chuyen Le. I started learning how to code in January 2021 and spent most of my day experimenting with HTML, CSS and JavaScript, React, Node, MongoDB and MariaDB.
 I enjoy coding and the challenge of learning something new everyday. <br>
-Now, I update my skill with Python(Frappe).
+Now(2023), I update my skill with Python(Frappe).
 
 <br>
 
